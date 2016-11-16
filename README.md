@@ -1,0 +1,1 @@
+A simple script to inject a zip/rar file into a jpg image.
